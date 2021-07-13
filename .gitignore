@@ -1,0 +1,7 @@
+output/*
+output/Posh-AdaptiveCards/*
+!output/Posh-AdaptiveCards/.gitkeep
+src/*
+!src/Posh-AdaptiveCards.csproj
+!src/TestSampleCmdletCommand.cs
+Posh-AdaptiveCards/Private
