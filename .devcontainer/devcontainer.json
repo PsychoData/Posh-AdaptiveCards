@@ -14,7 +14,9 @@
         }
     },
     // Set *default* container specific settings.json values on container create.
-    "settings": {},
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "pwsh"
+    },
     // Add the IDs of extensions you want installed when the container is created.
     "extensions": [
         "ms-dotnettools.csharp",
