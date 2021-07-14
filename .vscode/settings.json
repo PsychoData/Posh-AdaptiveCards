@@ -16,7 +16,14 @@
     "editor.formatOnSave": true,
     "cSpell.ignoreRegExpList": [],
     "cSpell.words": [
-        "Cmdlet"
+        "Antlr",
+        "Cmdlet",
+        "Dependabot",
+        "codeql",
+        "nuget",
+        "nupkg",
+        "psscriptanalyzer",
+        "sarif"
     ],
     "cSpell.allowCompoundWords": true,
     "html.validate.styles": true
