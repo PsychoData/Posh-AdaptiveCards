@@ -82,7 +82,7 @@ function New-AdaptiveCardInstance {
     param (
         # Template
         [Parameter()]
-        [ValidateScript({$_ -as [AdaptiveCards.Templating.AdaptiveCardTemplate]})]
+        [ValidateScript( { $_ -as [AdaptiveCards.Templating.AdaptiveCardTemplate] })]
         [AdaptiveCards.Templating.AdaptiveCardTemplate]
         $Template,
         # Data
