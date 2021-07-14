@@ -55,7 +55,7 @@ $DataJSON = @'
             "Name": "Matt Thompson"
 }
 '@
-New-AdaptiveCardInstance -Data $DataCardJSON -Template $TemplateJSON
+New-AdaptiveCardInstance -Data $DataJSON -Template $TemplateJSON
 ```
 
 which yields the ready-to-post JSON
