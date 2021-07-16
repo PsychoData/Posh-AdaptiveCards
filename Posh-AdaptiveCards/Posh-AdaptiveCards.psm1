@@ -53,8 +53,8 @@
 #     # {
 #     # }
 # }
-Add-Type -Path ".\bin\Posh_AdaptiveCards.dll" -Verbose
-Add-Type -Path ".\bin\AdaptiveCards.Templating.dll"
+#Add-Type -Path ".\bin\Posh_AdaptiveCards.dll" -Verbose
+#Add-Type -Path ".\bin\AdaptiveCards.Templating.dll"
 
 function New-AdaptiveCardTemplate {
     [CmdletBinding()]
